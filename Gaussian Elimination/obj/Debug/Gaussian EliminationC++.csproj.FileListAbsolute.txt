@@ -1,0 +1,7 @@
+C:\Users\tymni\OneDrive\Рабочий стол\ЧМЛА programs\Gaussian EliminationC++\obj\Debug\Gaussian EliminationC++.csprojAssemblyReference.cache
+C:\Users\tymni\OneDrive\Рабочий стол\ЧМЛА programs\Gaussian EliminationC++\obj\Debug\Gaussian EliminationC++.csproj.CoreCompileInputs.cache
+C:\Users\tymni\OneDrive\Рабочий стол\ЧМЛА programs\Gaussian EliminationC++\bin\Debug\Gaussian EliminationC++.exe.config
+C:\Users\tymni\OneDrive\Рабочий стол\ЧМЛА programs\Gaussian EliminationC++\bin\Debug\Gaussian EliminationC++.exe
+C:\Users\tymni\OneDrive\Рабочий стол\ЧМЛА programs\Gaussian EliminationC++\bin\Debug\Gaussian EliminationC++.pdb
+C:\Users\tymni\OneDrive\Рабочий стол\ЧМЛА programs\Gaussian EliminationC++\obj\Debug\Gaussian EliminationC++.exe
+C:\Users\tymni\OneDrive\Рабочий стол\ЧМЛА programs\Gaussian EliminationC++\obj\Debug\Gaussian EliminationC++.pdb
